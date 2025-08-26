@@ -5,3 +5,6 @@ notes on motion of a pendulum driven by an oscillator
 * `notes`: a collection of markdown notes
 * `figures`: graphics used in notes
 * `equations`: math referenced in notes
+
+## 🔗 quick links
+[ideas on pendulum](/00-ideas-and-exploration)
