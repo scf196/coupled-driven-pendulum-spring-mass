@@ -7,4 +7,4 @@ notes on motion of a pendulum driven by an oscillator
 * `equations`: math referenced in notes
 
 ## 🔗 quick links
-[ideas on pendulum](/00-ideas-and-exploration)
+[ideas on pendulum](/00-ideas-and-exploration.md)
