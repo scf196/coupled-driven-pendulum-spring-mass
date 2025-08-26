@@ -17,3 +17,6 @@ summarize our exploration of interesting problems and simpler variants that we c
 - simple harmonic motion
   - *guess:* will occur between $\pm90^{\circ}$, will be expressed by sinusoidal graph
 - we expect that simple harmonic motion will break down for a large starting displacement
+- driven pendulum
+  - [video example]()
+  - dependent on driving frequency
