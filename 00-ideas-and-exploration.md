@@ -18,5 +18,5 @@ summarize our exploration of interesting problems and simpler variants that we c
   - *guess:* will occur between $\pm90^{\circ}$, will be expressed by sinusoidal graph
 - we expect that simple harmonic motion will break down for a large starting displacement
 - driven pendulum
-  - [video example]()
+  - [video example](https://youtu.be/5oGYCxkgnHQ)
   - dependent on driving frequency
